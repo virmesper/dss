@@ -6,7 +6,7 @@ El objetivo de DVWA es **practicar algunas de las vulnerabilidades web más comu
 Tener en cuenta que hay **tanto vulnerabilidades documentadas como no documentadas** en este software. Esto es intencional. Le animamos a que intente descubrir tantos problemas como sea posible.
 - - -
 
-## ¡AVISO!
+## AVISO
 
 ¡Damn Vulnerable Web Application es extremadamente vulnerable! **No la suba a la carpeta html pública de su proveedor de alojamiento ni a ningún servidor expuesto a Internet**, ya que se verán comprometidos. Se recomienda utilizar una máquina virtual (como [VirtualBox](https://www.virtualbox.org/) o [VMware](https://www.vmware.com/)), que esté configurada en modo de red NAT. Dentro de una máquina huésped, puede descargar e instalar [XAMPP](https://www.apachefriends.org/) para montar el servidor web y la base de datos.
 
